@@ -6,7 +6,7 @@ metadata:
 spec: 
   project: default 
   source: 
-    repoURL: https://github.com/AndreiMusca00/argoGolang.git
+    repoURL: https://github.com/AndreiMusca00/tryRepo.git
     targetRevision: main 
     path: argo
   destination:
